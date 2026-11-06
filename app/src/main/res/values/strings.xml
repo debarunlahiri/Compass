@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="privacy_and_support">Privacy &amp; support</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="contact_support">Contact support</string>
+    <string name="support_email" translatable="false">contact@lambrk.com</string>
+    <string name="privacy_policy_url" translatable="false">https://lambrk.com/compass/privacy-policy</string>
+    <string name="no_app_to_open_link">No app is available to open this link.</string>
+</resources>
